@@ -26,3 +26,5 @@ CSE520 Data Analytics and Visualization Project
 
 ![accuracy](/Output/accuracy.png)
 
+Note: Please go through the presentation in the repository to get more details of the project. 
+
